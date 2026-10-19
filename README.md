@@ -1,4 +1,4 @@
-# Tactical Breach: Operación Sombras - Documento de Diseño (GDD)
+# Tactical Breach: Undercover ops - Documento de Diseño (GDD)
 
 ## 1. Ficha del juego
 
